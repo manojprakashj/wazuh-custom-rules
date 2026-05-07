@@ -71,7 +71,8 @@ Copy the XML rules into:
 /var/ossec/etc/rules/
 ```
 
-Example : Detection telemetry for suspicious AD enumeration activity using SAMR over IPC$ shares.
+# Example : Detection telemetry for suspicious AD enumeration activity using SAMR over IPC$ shares.
+
 <img width="1600" height="782" alt="domain-controller-1" src="https://github.com/user-attachments/assets/43c1e020-b0b4-4dd9-9860-3cce6c8872b3" />
 
 ---
